@@ -1,0 +1,48 @@
+.contact-page {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .contact-info {
+    padding: 2rem;
+  }
+  
+  .contact-info h1 {
+    margin-bottom: 1.5rem;
+    color: #333;
+  }
+  
+  .contact-info p {
+    margin-bottom: 1rem;
+    color: #555;
+  }
+  
+  .opening-hours {
+    margin-top: 2rem;
+  }
+  
+  .opening-hours h2 {
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .reservation-section {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+  }
+  
+  .reservation-section h2 {
+    margin-bottom: 1.5rem;
+    color: #333;
+  }
+  
+  @media (max-width: 768px) {
+    .contact-page {
+      grid-template-columns: 1fr;
+    }
+  }
