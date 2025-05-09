@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-section">
           <h3>Not Your Grandpa’s Grill</h3>
-          <p>Fine dining experience with a modern twist.</p>
+          <p>At Not Your Grandpa’s Grill, we honor the charm of olden times while serving a fine dining experience reimagined for today—where vintage elegance meets contemporary flavor.</p>
         </div>
         <div className="footer-section">
           <h4>Hours</h4>
