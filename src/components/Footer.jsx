@@ -16,9 +16,9 @@ const Footer = () => {
         </div>
         <div className="footer-section">
           <h4>Contact</h4>
-          <p>123 Culinary Street</p>
-          <p>Foodville, FC 12345</p>
-          <p>(555) 123-4567</p>
+          <p>456 Flavor Lane</p>
+          <p>Grilltown, GT 67890</p>
+          <p>(555) 987-6543</p>
         </div>
         <div className="footer-section">
           <h4>Follow Us</h4>

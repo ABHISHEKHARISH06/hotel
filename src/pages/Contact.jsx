@@ -6,8 +6,8 @@ const Contact = () => {
     <div className="contact-page">
       <div className="contact-info">
         <h1>Contact Us</h1>
-        <p><strong>Address:</strong> 123 Culinary Street, Foodville, FC 12345</p>
-        <p><strong>Phone:</strong> (555) 123-4567</p>
+        <p><strong>Address:</strong> 456 Flavor Lane, Grilltown, GT 678905</p>
+        <p><strong>Phone:</strong> (555) 987-6543</p>
         <p><strong>Email:</strong> info@notyourgrandpasgrill.com</p>
         
         <div className="opening-hours">

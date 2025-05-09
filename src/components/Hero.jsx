@@ -10,7 +10,7 @@ const Hero = () => {
     >
       <div className="hero-content">
         <h1>Welcome to Not Your Grandpa’s Grill</h1>
-        <p>Experience culinary excellence in every bite</p>
+        <p>Good cookin’ like the old days—every bite made with care.</p>
         <button className="hero-btn">Reserve a Table</button>
       </div>
     </section>
