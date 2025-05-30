@@ -16,9 +16,12 @@ const Footer = () => {
         </div>
         <div className="footer-section">
           <h4>Contact</h4>
-          <p>456 Flavor Lane</p>
-          <p>Grilltown, GT 67890</p>
-          <p>(555) 987-6543</p>
+           <p> Old No. 18, New No. 42, 3rd Floor<br />
+            T.T.K. Road, Alwarpet<br />
+            Opp. Music Academy, Near Poes Garden<br/>
+            Chennai, Tamil Nadu – 600018<br/>
+            India</p>
+        <p> +91 44276 54321</p>
         </div>
         <div className="footer-section">
           <h4>Follow Us</h4>

@@ -6,7 +6,7 @@ const specialItems = [
       id: 101,
       name: 'Chef\'s Special',
       description: 'Seasonal ingredients prepared with chef\'s unique touch',
-      price: 28.99,
+      price: 240,
       image: '/images/chef-special.jpg'
     },
   ];
