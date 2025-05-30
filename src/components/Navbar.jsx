@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-        👴🏻Not Your Grandpa’s Grill
+        Not Your Grandpa’s Grill
         </Link>
         <ul className="nav-menu">
           <li className="nav-item">
